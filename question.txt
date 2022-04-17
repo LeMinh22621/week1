@@ -1,0 +1,8 @@
+câu 1: Làm sao để sử dụng binarySearch trong bài này?
+	Ở đây, em sử dụng binary search nhưng nó chỉ lưu được 3 nốt đầu tiên: tức là:
+				  root
+			    /         \
+			node1	       node2
+			/    \       /    \
+                 null null   null   null
+	không lưu được các node sau nữa;
